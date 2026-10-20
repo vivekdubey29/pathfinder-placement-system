@@ -1,0 +1,1159 @@
+[
+  {
+    "id": "int-001",
+    "title": "Backend Engineering Intern",
+    "roleCategory": "Backend Development",
+    "company": {
+      "id": "cmp-nexora",
+      "name": "Nexora Systems",
+      "industry": "Enterprise Software",
+      "size": "1,000-5,000 employees",
+      "headquarters": "Bengaluru",
+      "about": "Builds order-management and billing software for large retail and manufacturing customers."
+    },
+    "location": "Bengaluru",
+    "workMode": "HYBRID",
+    "stipendMonthly": 40000,
+    "durationMonths": 6,
+    "description": "Join the order-management platform team and help build the Java services that enterprise customers rely on every day.",
+    "responsibilities": [
+      "Implement REST endpoints for internal services using Java and Spring Boot",
+      "Write unit tests and resolve defects raised in code review",
+      "Optimise SQL queries behind reporting features"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Data Structures",
+      "SQL",
+      "Spring Boot",
+      "REST APIs"
+    ],
+    "preferredSkills": [
+      "Docker",
+      "Git",
+      "JUnit"
+    ],
+    "eligibility": {
+      "minCgpa": 7.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -3,
+    "deadlineDaysOffset": 21
+  },
+  {
+    "id": "int-002",
+    "title": "Frontend Developer Intern",
+    "roleCategory": "Frontend Development",
+    "company": {
+      "id": "cmp-nexora",
+      "name": "Nexora Systems",
+      "industry": "Enterprise Software",
+      "size": "1,000-5,000 employees",
+      "headquarters": "Bengaluru",
+      "about": "Builds order-management and billing software for large retail and manufacturing customers."
+    },
+    "location": "Bengaluru",
+    "workMode": "HYBRID",
+    "stipendMonthly": 30000,
+    "durationMonths": 6,
+    "description": "Build accessible, responsive interfaces for the customer portal used by thousands of business users.",
+    "responsibilities": [
+      "Develop reusable React components with the design team",
+      "Fix layout and accessibility issues across browsers",
+      "Add tests for key user flows"
+    ],
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS"
+    ],
+    "preferredSkills": [
+      "TypeScript",
+      "Git",
+      "Web Accessibility"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA",
+        "B.Sc"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -21,
+    "deadlineDaysOffset": 14
+  },
+  {
+    "id": "int-003",
+    "title": "Java Platform Intern",
+    "roleCategory": "Backend Development",
+    "company": {
+      "id": "cmp-finverse",
+      "name": "Finverse Technologies",
+      "industry": "Fintech",
+      "size": "500-1,000 employees",
+      "headquarters": "Mumbai",
+      "about": "Develops payment processing and risk analytics platforms for banks and lenders."
+    },
+    "location": "Mumbai",
+    "workMode": "ONSITE",
+    "stipendMonthly": 35000,
+    "durationMonths": 6,
+    "description": "Work on the transaction-processing core of a payments platform, focusing on correctness and performance.",
+    "responsibilities": [
+      "Implement and test core Java modules for transaction validation",
+      "Profile slow code paths and improve algorithmic efficiency",
+      "Document design decisions for the platform team"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Data Structures",
+      "Algorithms",
+      "SQL"
+    ],
+    "preferredSkills": [
+      "Spring Boot",
+      "Messaging Queues"
+    ],
+    "eligibility": {
+      "minCgpa": 8.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech"
+      ],
+      "graduationYears": [
+        2027
+      ]
+    },
+    "postedDaysOffset": -5,
+    "deadlineDaysOffset": 18
+  },
+  {
+    "id": "int-004",
+    "title": "Data Analyst Intern",
+    "roleCategory": "Data Science",
+    "company": {
+      "id": "cmp-finverse",
+      "name": "Finverse Technologies",
+      "industry": "Fintech",
+      "size": "500-1,000 employees",
+      "headquarters": "Mumbai",
+      "about": "Develops payment processing and risk analytics platforms for banks and lenders."
+    },
+    "location": "Mumbai",
+    "workMode": "HYBRID",
+    "stipendMonthly": 28000,
+    "durationMonths": 4,
+    "description": "Analyse repayment and transaction data to help the risk team spot trends and prepare weekly reports.",
+    "responsibilities": [
+      "Clean and query transaction datasets with SQL and Python",
+      "Build weekly summary dashboards for the risk team",
+      "Document assumptions behind each analysis"
+    ],
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Statistics"
+    ],
+    "preferredSkills": [
+      "Pandas",
+      "Power BI"
+    ],
+    "eligibility": {
+      "minCgpa": 7.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "B.Sc",
+        "M.Sc",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -2,
+    "deadlineDaysOffset": 25
+  },
+  {
+    "id": "int-005",
+    "title": "Cloud and DevOps Intern",
+    "roleCategory": "DevOps & Cloud",
+    "company": {
+      "id": "cmp-cloudnimbus",
+      "name": "CloudNimbus Labs",
+      "industry": "Cloud Infrastructure",
+      "size": "200-500 employees",
+      "headquarters": "Hyderabad",
+      "about": "Provides managed hosting, monitoring and deployment tooling for growing engineering teams."
+    },
+    "location": "Hyderabad",
+    "workMode": "HYBRID",
+    "stipendMonthly": 32000,
+    "durationMonths": 6,
+    "description": "Help the platform team automate deployments and improve monitoring for customer-facing services.",
+    "responsibilities": [
+      "Write scripts to automate environment setup",
+      "Containerise internal tools with Docker",
+      "Maintain build pipeline configuration and alert rules"
+    ],
+    "requiredSkills": [
+      "Linux",
+      "Git",
+      "Docker",
+      "Python"
+    ],
+    "preferredSkills": [
+      "AWS",
+      "Kubernetes",
+      "CI/CD"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -7,
+    "deadlineDaysOffset": 12
+  },
+  {
+    "id": "int-006",
+    "title": "Backend Developer Intern",
+    "roleCategory": "Backend Development",
+    "company": {
+      "id": "cmp-cloudnimbus",
+      "name": "CloudNimbus Labs",
+      "industry": "Cloud Infrastructure",
+      "size": "200-500 employees",
+      "headquarters": "Hyderabad",
+      "about": "Provides managed hosting, monitoring and deployment tooling for growing engineering teams."
+    },
+    "location": "Hyderabad",
+    "workMode": "ONSITE",
+    "stipendMonthly": 38000,
+    "durationMonths": 6,
+    "description": "Build backend services for the billing and usage-metering features of a cloud hosting product.",
+    "responsibilities": [
+      "Develop Java services that record and aggregate usage events",
+      "Design relational schemas and write migration scripts",
+      "Review pull requests with senior engineers"
+    ],
+    "requiredSkills": [
+      "Java",
+      "SQL",
+      "REST APIs",
+      "Data Structures",
+      "Object-Oriented Programming"
+    ],
+    "preferredSkills": [
+      "Spring Boot",
+      "Docker",
+      "Redis"
+    ],
+    "eligibility": {
+      "minCgpa": 7.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027
+      ]
+    },
+    "postedDaysOffset": -1,
+    "deadlineDaysOffset": 30
+  },
+  {
+    "id": "int-007",
+    "title": "Machine Learning Intern",
+    "roleCategory": "Machine Learning",
+    "company": {
+      "id": "cmp-lumina",
+      "name": "Lumina Health Analytics",
+      "industry": "Healthtech",
+      "size": "200-500 employees",
+      "headquarters": "Pune",
+      "about": "Builds analytics dashboards and prediction tools that help hospitals plan capacity and staffing."
+    },
+    "location": "Pune",
+    "workMode": "HYBRID",
+    "stipendMonthly": 35000,
+    "durationMonths": 6,
+    "description": "Prototype models that estimate patient admission volumes so hospitals can plan staffing ahead of time.",
+    "responsibilities": [
+      "Prepare training datasets and evaluate baseline models",
+      "Experiment with feature engineering and report results",
+      "Present findings to the analytics team every two weeks"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Machine Learning",
+      "Statistics",
+      "NumPy"
+    ],
+    "preferredSkills": [
+      "scikit-learn",
+      "TensorFlow",
+      "SQL"
+    ],
+    "eligibility": {
+      "minCgpa": 8,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech",
+        "M.Sc"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -12,
+    "deadlineDaysOffset": 9
+  },
+  {
+    "id": "int-008",
+    "title": "Full Stack Developer Intern",
+    "roleCategory": "Full Stack Development",
+    "company": {
+      "id": "cmp-lumina",
+      "name": "Lumina Health Analytics",
+      "industry": "Healthtech",
+      "size": "200-500 employees",
+      "headquarters": "Pune",
+      "about": "Builds analytics dashboards and prediction tools that help hospitals plan capacity and staffing."
+    },
+    "location": "Pune",
+    "workMode": "HYBRID",
+    "stipendMonthly": 30000,
+    "durationMonths": 6,
+    "description": "Build internal dashboards that let hospital administrators view bed occupancy and appointment trends.",
+    "responsibilities": [
+      "Create React views backed by Node.js APIs",
+      "Model and query data in SQL databases",
+      "Pair with designers to refine usability"
+    ],
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL"
+    ],
+    "preferredSkills": [
+      "MongoDB",
+      "Git"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -26,
+    "deadlineDaysOffset": 20
+  },
+  {
+    "id": "int-009",
+    "title": "Security Analyst Intern",
+    "roleCategory": "Cybersecurity",
+    "company": {
+      "id": "cmp-shieldmesh",
+      "name": "ShieldMesh Security",
+      "industry": "Cybersecurity",
+      "size": "50-200 employees",
+      "headquarters": "Delhi NCR",
+      "about": "Offers vulnerability assessment and managed security monitoring for mid-sized businesses."
+    },
+    "location": "Delhi NCR",
+    "workMode": "ONSITE",
+    "stipendMonthly": 25000,
+    "durationMonths": 6,
+    "description": "Support the security operations team by triaging alerts and documenting findings for client reports.",
+    "responsibilities": [
+      "Review security alerts and escalate genuine incidents",
+      "Write Python scripts to parse log files",
+      "Contribute to weekly client security summaries"
+    ],
+    "requiredSkills": [
+      "Networking",
+      "Linux",
+      "Python",
+      "Cryptography"
+    ],
+    "preferredSkills": [
+      "Web Security"
+    ],
+    "eligibility": {
+      "minCgpa": 7.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech",
+        "MCA"
+      ],
+      "graduationYears": [
+        2026
+      ]
+    },
+    "postedDaysOffset": -9,
+    "deadlineDaysOffset": 16
+  },
+  {
+    "id": "int-010",
+    "title": "Application Security Intern",
+    "roleCategory": "Cybersecurity",
+    "company": {
+      "id": "cmp-shieldmesh",
+      "name": "ShieldMesh Security",
+      "industry": "Cybersecurity",
+      "size": "50-200 employees",
+      "headquarters": "Delhi NCR",
+      "about": "Offers vulnerability assessment and managed security monitoring for mid-sized businesses."
+    },
+    "location": "Remote",
+    "workMode": "REMOTE",
+    "stipendMonthly": 22000,
+    "durationMonths": 3,
+    "description": "A short pre-final-year internship reviewing web applications for common security weaknesses under supervision.",
+    "responsibilities": [
+      "Test sample web applications for injection and access-control flaws",
+      "Write clear reproduction steps for each finding",
+      "Help update the internal secure-coding checklist"
+    ],
+    "requiredSkills": [
+      "JavaScript",
+      "Web Security",
+      "Git",
+      "SQL"
+    ],
+    "preferredSkills": [
+      "Python",
+      "Docker"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA"
+      ],
+      "graduationYears": [
+        2028
+      ]
+    },
+    "postedDaysOffset": -6,
+    "deadlineDaysOffset": 11
+  },
+  {
+    "id": "int-011",
+    "title": "Software Development Intern",
+    "roleCategory": "Backend Development",
+    "company": {
+      "id": "cmp-orbitly",
+      "name": "Orbitly Commerce",
+      "industry": "E-commerce",
+      "size": "1,000-5,000 employees",
+      "headquarters": "Bengaluru",
+      "about": "Runs a marketplace platform connecting regional sellers with online shoppers."
+    },
+    "location": "Bengaluru",
+    "workMode": "HYBRID",
+    "stipendMonthly": 50000,
+    "durationMonths": 6,
+    "description": "Work on the search and catalogue services of a marketplace platform that handles high traffic during sale events.",
+    "responsibilities": [
+      "Implement catalogue and ranking features in Java",
+      "Analyse the time and space complexity of critical code paths",
+      "Add monitoring and write integration tests"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Data Structures",
+      "Algorithms",
+      "System Design"
+    ],
+    "preferredSkills": [
+      "Spring Boot",
+      "SQL",
+      "Redis"
+    ],
+    "eligibility": {
+      "minCgpa": 8,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech"
+      ],
+      "graduationYears": [
+        2027
+      ]
+    },
+    "postedDaysOffset": -2,
+    "deadlineDaysOffset": 27
+  },
+  {
+    "id": "int-012",
+    "title": "Frontend Engineering Intern",
+    "roleCategory": "Frontend Development",
+    "company": {
+      "id": "cmp-orbitly",
+      "name": "Orbitly Commerce",
+      "industry": "E-commerce",
+      "size": "1,000-5,000 employees",
+      "headquarters": "Bengaluru",
+      "about": "Runs a marketplace platform connecting regional sellers with online shoppers."
+    },
+    "location": "Bengaluru",
+    "workMode": "ONSITE",
+    "stipendMonthly": 45000,
+    "durationMonths": 6,
+    "description": "Improve the checkout and seller dashboard experience used by millions of monthly visitors.",
+    "responsibilities": [
+      "Build and test React components for the checkout flow",
+      "Measure and improve page load performance",
+      "Collaborate with designers on interaction details"
+    ],
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Git"
+    ],
+    "preferredSkills": [
+      "TypeScript",
+      "Jest"
+    ],
+    "eligibility": {
+      "minCgpa": 8.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech"
+      ],
+      "graduationYears": [
+        2027
+      ]
+    },
+    "postedDaysOffset": -8,
+    "deadlineDaysOffset": 15
+  },
+  {
+    "id": "int-013",
+    "title": "Full Stack Developer Intern",
+    "roleCategory": "Full Stack Development",
+    "company": {
+      "id": "cmp-veda",
+      "name": "Veda Learning",
+      "industry": "Education Technology",
+      "size": "200-500 employees",
+      "headquarters": "Chennai",
+      "about": "Creates online courses and practice platforms for school and college learners."
+    },
+    "location": "Remote",
+    "workMode": "REMOTE",
+    "stipendMonthly": 20000,
+    "durationMonths": 4,
+    "description": "Help build the practice-test platform that students use to prepare for coding assessments.",
+    "responsibilities": [
+      "Build quiz and progress screens in React",
+      "Create Node.js endpoints that store attempts in MongoDB",
+      "Fix bugs reported by learners and support staff"
+    ],
+    "requiredSkills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB"
+    ],
+    "preferredSkills": [
+      "Git",
+      "Docker"
+    ],
+    "eligibility": {
+      "minCgpa": 6.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA",
+        "B.Sc"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -30,
+    "deadlineDaysOffset": 7
+  },
+  {
+    "id": "int-014",
+    "title": "UI/UX Design Intern",
+    "roleCategory": "UI/UX Design",
+    "company": {
+      "id": "cmp-veda",
+      "name": "Veda Learning",
+      "industry": "Education Technology",
+      "size": "200-500 employees",
+      "headquarters": "Chennai",
+      "about": "Creates online courses and practice platforms for school and college learners."
+    },
+    "location": "Chennai",
+    "workMode": "HYBRID",
+    "stipendMonthly": 18000,
+    "durationMonths": 3,
+    "description": "Design learner-facing screens for a mobile-first study app, from first sketches to tested prototypes.",
+    "responsibilities": [
+      "Create wireframes and interactive prototypes in Figma",
+      "Run short usability sessions with students",
+      "Document component specifications for developers"
+    ],
+    "requiredSkills": [
+      "Figma",
+      "User Research",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "preferredSkills": [
+      "HTML",
+      "CSS"
+    ],
+    "eligibility": {
+      "minCgpa": 6,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "B.Sc",
+        "B.Des"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -3,
+    "deadlineDaysOffset": 22
+  },
+  {
+    "id": "int-015",
+    "title": "Android Developer Intern",
+    "roleCategory": "Mobile Development",
+    "company": {
+      "id": "cmp-transitgrid",
+      "name": "TransitGrid Mobility",
+      "industry": "Urban Mobility",
+      "size": "500-1,000 employees",
+      "headquarters": "Pune",
+      "about": "Develops fleet scheduling and passenger information systems for city transport operators."
+    },
+    "location": "Pune",
+    "workMode": "ONSITE",
+    "stipendMonthly": 30000,
+    "durationMonths": 6,
+    "description": "Contribute to the passenger app that shows live bus arrival times and route information.",
+    "responsibilities": [
+      "Implement app screens in Kotlin",
+      "Integrate REST APIs for live arrival data",
+      "Test the app on a range of devices"
+    ],
+    "requiredSkills": [
+      "Kotlin",
+      "Android",
+      "Java",
+      "REST APIs"
+    ],
+    "preferredSkills": [
+      "Git",
+      "Firebase"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -11,
+    "deadlineDaysOffset": 13
+  },
+  {
+    "id": "int-016",
+    "title": "Data Engineering Intern",
+    "roleCategory": "Data Engineering",
+    "company": {
+      "id": "cmp-transitgrid",
+      "name": "TransitGrid Mobility",
+      "industry": "Urban Mobility",
+      "size": "500-1,000 employees",
+      "headquarters": "Pune",
+      "about": "Develops fleet scheduling and passenger information systems for city transport operators."
+    },
+    "location": "Pune",
+    "workMode": "HYBRID",
+    "stipendMonthly": 36000,
+    "durationMonths": 6,
+    "description": "Build pipelines that move vehicle location data into reporting tables used by operations teams.",
+    "responsibilities": [
+      "Write Python jobs that extract, clean and load GPS data",
+      "Design efficient SQL tables for reporting",
+      "Monitor pipeline runs and fix failures"
+    ],
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Data Structures",
+      "ETL"
+    ],
+    "preferredSkills": [
+      "Apache Spark",
+      "Airflow",
+      "Docker"
+    ],
+    "eligibility": {
+      "minCgpa": 7.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -5,
+    "deadlineDaysOffset": 19
+  },
+  {
+    "id": "int-017",
+    "title": "Frontend Developer Intern",
+    "roleCategory": "Frontend Development",
+    "company": {
+      "id": "cmp-pixelcraft",
+      "name": "PixelCraft Studio",
+      "industry": "Product Design Studio",
+      "size": "50-200 employees",
+      "headquarters": "Ahmedabad",
+      "about": "A design and web studio that builds product interfaces for startups and small businesses."
+    },
+    "location": "Remote",
+    "workMode": "REMOTE",
+    "stipendMonthly": 24000,
+    "durationMonths": 4,
+    "description": "Turn client designs into polished, responsive web pages and reusable components.",
+    "responsibilities": [
+      "Implement pages from Figma designs using React",
+      "Ensure layouts work on phones, tablets and desktops",
+      "Run accessibility checks before each release"
+    ],
+    "requiredSkills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React"
+    ],
+    "preferredSkills": [
+      "Figma",
+      "Web Accessibility",
+      "Git"
+    ],
+    "eligibility": {
+      "minCgpa": 6.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA",
+        "B.Sc"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -1,
+    "deadlineDaysOffset": 24
+  },
+  {
+    "id": "int-018",
+    "title": "Product Design Intern",
+    "roleCategory": "UI/UX Design",
+    "company": {
+      "id": "cmp-pixelcraft",
+      "name": "PixelCraft Studio",
+      "industry": "Product Design Studio",
+      "size": "50-200 employees",
+      "headquarters": "Ahmedabad",
+      "about": "A design and web studio that builds product interfaces for startups and small businesses."
+    },
+    "location": "Ahmedabad",
+    "workMode": "HYBRID",
+    "stipendMonthly": 20000,
+    "durationMonths": 3,
+    "description": "A short internship for pre-final-year students to help design a component library for client projects.",
+    "responsibilities": [
+      "Audit existing screens for visual consistency",
+      "Create components and usage notes in Figma",
+      "Present design options to the studio team"
+    ],
+    "requiredSkills": [
+      "Figma",
+      "Wireframing",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "preferredSkills": [
+      "User Research"
+    ],
+    "eligibility": {
+      "minCgpa": 6,
+      "degrees": [
+        "B.Des",
+        "B.Tech",
+        "BCA"
+      ],
+      "graduationYears": [
+        2028
+      ]
+    },
+    "postedDaysOffset": -15,
+    "deadlineDaysOffset": 5
+  },
+  {
+    "id": "int-019",
+    "title": "Backend Developer Intern",
+    "roleCategory": "Backend Development",
+    "company": {
+      "id": "cmp-meridian",
+      "name": "Meridian Logistics Tech",
+      "industry": "Logistics",
+      "size": "500-1,000 employees",
+      "headquarters": "Kolkata",
+      "about": "Provides shipment tracking and warehouse management software for freight companies."
+    },
+    "location": "Kolkata",
+    "workMode": "ONSITE",
+    "stipendMonthly": 26000,
+    "durationMonths": 6,
+    "description": "Build services behind a shipment-tracking product used by freight companies across eastern India.",
+    "responsibilities": [
+      "Develop Java APIs that return shipment status and history",
+      "Write SQL queries for tracking reports",
+      "Participate in sprint planning and code reviews"
+    ],
+    "requiredSkills": [
+      "Java",
+      "SQL",
+      "Data Structures",
+      "Git"
+    ],
+    "preferredSkills": [
+      "Spring Boot",
+      "Docker"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -6,
+    "deadlineDaysOffset": 17
+  },
+  {
+    "id": "int-020",
+    "title": "QA Automation Intern",
+    "roleCategory": "Quality Assurance",
+    "company": {
+      "id": "cmp-meridian",
+      "name": "Meridian Logistics Tech",
+      "industry": "Logistics",
+      "size": "500-1,000 employees",
+      "headquarters": "Kolkata",
+      "about": "Provides shipment tracking and warehouse management software for freight companies."
+    },
+    "location": "Kolkata",
+    "workMode": "HYBRID",
+    "stipendMonthly": 20000,
+    "durationMonths": 4,
+    "description": "Automate regression tests for the warehouse management web application.",
+    "responsibilities": [
+      "Write automated browser tests using Selenium and Java",
+      "Report and track defects with clear reproduction steps",
+      "Verify data accuracy with SQL queries"
+    ],
+    "requiredSkills": [
+      "Java",
+      "Selenium",
+      "Software Testing",
+      "SQL"
+    ],
+    "preferredSkills": [
+      "JUnit",
+      "Git",
+      "CI/CD"
+    ],
+    "eligibility": {
+      "minCgpa": 6.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "BCA",
+        "MCA",
+        "B.Sc"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -9,
+    "deadlineDaysOffset": 10
+  },
+  {
+    "id": "int-021",
+    "title": "Data Engineering Intern",
+    "roleCategory": "Data Engineering",
+    "company": {
+      "id": "cmp-dataharbor",
+      "name": "DataHarbor Analytics",
+      "industry": "Data Platforms",
+      "size": "200-500 employees",
+      "headquarters": "Hyderabad",
+      "about": "Builds data pipelines and reporting platforms for retail and telecom customers."
+    },
+    "location": "Hyderabad",
+    "workMode": "HYBRID",
+    "stipendMonthly": 40000,
+    "durationMonths": 6,
+    "description": "Design and maintain batch data pipelines for retail analytics customers.",
+    "responsibilities": [
+      "Build Python transformations for large daily data files",
+      "Model warehouse tables and write optimised SQL",
+      "Add data quality checks and alerts"
+    ],
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Data Structures",
+      "Data Modeling"
+    ],
+    "preferredSkills": [
+      "Apache Spark",
+      "AWS",
+      "Airflow"
+    ],
+    "eligibility": {
+      "minCgpa": 8,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "M.Tech",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027
+      ]
+    },
+    "postedDaysOffset": -3,
+    "deadlineDaysOffset": 26
+  },
+  {
+    "id": "int-022",
+    "title": "Data Science Intern",
+    "roleCategory": "Data Science",
+    "company": {
+      "id": "cmp-dataharbor",
+      "name": "DataHarbor Analytics",
+      "industry": "Data Platforms",
+      "size": "200-500 employees",
+      "headquarters": "Hyderabad",
+      "about": "Builds data pipelines and reporting platforms for retail and telecom customers."
+    },
+    "location": "Remote",
+    "workMode": "REMOTE",
+    "stipendMonthly": 30000,
+    "durationMonths": 5,
+    "description": "Analyse customer behaviour data and build simple prediction models for retail clients.",
+    "responsibilities": [
+      "Explore datasets and summarise findings for account teams",
+      "Train and compare baseline classification models",
+      "Build report visuals for client presentations"
+    ],
+    "requiredSkills": [
+      "Python",
+      "SQL",
+      "Statistics",
+      "Machine Learning"
+    ],
+    "preferredSkills": [
+      "Pandas",
+      "scikit-learn",
+      "Power BI"
+    ],
+    "eligibility": {
+      "minCgpa": 7.5,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "B.Sc",
+        "M.Sc",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -7,
+    "deadlineDaysOffset": 8
+  },
+  {
+    "id": "int-023",
+    "title": "Software Engineer Intern",
+    "roleCategory": "Full Stack Development",
+    "company": {
+      "id": "cmp-greenleaf",
+      "name": "Greenleaf Energy Systems",
+      "industry": "Energy Software",
+      "size": "200-500 employees",
+      "headquarters": "Chennai",
+      "about": "Creates monitoring and planning software for solar and wind energy operators."
+    },
+    "location": "Chennai",
+    "workMode": "HYBRID",
+    "stipendMonthly": 28000,
+    "durationMonths": 6,
+    "description": "Work across the stack on a monitoring portal that shows output from solar and wind sites.",
+    "responsibilities": [
+      "Build Java REST services that serve site performance data",
+      "Create dashboard views in JavaScript",
+      "Write SQL queries for daily and monthly reports"
+    ],
+    "requiredSkills": [
+      "Java",
+      "JavaScript",
+      "SQL",
+      "REST APIs"
+    ],
+    "preferredSkills": [
+      "Spring Boot",
+      "React",
+      "Docker"
+    ],
+    "eligibility": {
+      "minCgpa": 7,
+      "degrees": [
+        "B.Tech",
+        "B.E.",
+        "MCA"
+      ],
+      "graduationYears": [
+        2027,
+        2028
+      ]
+    },
+    "postedDaysOffset": -4,
+    "deadlineDaysOffset": 23
+  },
+  {
+    "id": "int-024",
+    "title": "Grid Optimization Intern",
+    "roleCategory": "Data Science",
+    "company": {
+      "id": "cmp-greenleaf",
+      "name": "Greenleaf Energy Systems",
+      "industry": "Energy Software",
+      "size": "200-500 employees",
+      "headquarters": "Chennai",
+      "about": "Creates monitoring and planning software for solar and wind energy operators."
+    },
+    "location": "Chennai",
+    "workMode": "ONSITE",
+    "stipendMonthly": 45000,
+    "durationMonths": 6,
+    "description": "A research-oriented internship applying optimisation algorithms to energy dispatch planning.",
+    "responsibilities": [
+      "Implement and benchmark optimisation algorithms in Python",
+      "Analyse results with statistical methods",
+      "Write short technical notes for the planning team"
+    ],
+    "requiredSkills": [
+      "Python",
+      "Algorithms",
+      "Data Structures",
+      "Statistics"
+    ],
+    "preferredSkills": [
+      "C++",
+      "Optimization"
+    ],
+    "eligibility": {
+      "minCgpa": 8.5,
+      "degrees": [
+        "M.Tech",
+        "M.Sc"
+      ],
+      "graduationYears": [
+        2026,
+        2027
+      ]
+    },
+    "postedDaysOffset": -13,
+    "deadlineDaysOffset": 4
+  }
+]
